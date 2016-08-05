@@ -1,0 +1,494 @@
+[ 2016-08-01T01:55:46+08:00 ] 61.151.218.118 /weixin/index.php?signature%3Dd2e31c4152116142b9791bacf51fc60c9b55115a%26timestamp%3D1469956135%26nonce%3D1520042649%26openid%3DoUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined index: nonce /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 56 行.
+
+[ 2016-08-01T06:11:58+08:00 ] 180.153.214.191 /weixin/index.php?signature%3D64f7e8ae0b9a701c9ae53a808b765869d810e3b5%26timestamp%3D1469954141%26nonce%3D1796193441%26openid%3DoUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined index: nonce /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 56 行.
+
+[ 2016-08-01T14:15:35+08:00 ] ERR: [4] syntax error, unexpected ';' /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 36 行.
+[ 2016-08-01T14:15:35+08:00 ] 182.254.86.148 /weixin/index.php?signature=0cb418dd1fc5065b46fb80303f24026fe90c5e0e&timestamp=1470032135&nonce=115312916&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+
+[ 2016-08-01T14:52:07+08:00 ] 182.254.86.148 /weixin/index.php?signature=6e9b5a3daed375241026ee54f0988b9a370890df&timestamp=1470034327&nonce=678251049&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 36 行.
+NOTIC: [8] Undefined variable: time /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 45 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 54 行.
+NOTIC: [8] Undefined variable: access_token /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+
+[ 2016-08-01T14:52:11+08:00 ] 182.254.86.153 /weixin/index.php?signature=1fd7c484cfc62dfb25554ba5d53146012aa11715&timestamp=1470034331&nonce=1123022059&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 36 行.
+NOTIC: [8] Undefined variable: time /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 45 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 54 行.
+NOTIC: [8] Undefined variable: access_token /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+
+[ 2016-08-01T14:52:50+08:00 ] 182.254.86.158 /weixin/index.php?signature=f723749ceea514bff0c22b15603e092809f1901f&timestamp=1470034370&nonce=453242484&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 36 行.
+NOTIC: [8] Undefined variable: time /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 45 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 54 行.
+NOTIC: [8] Undefined variable: access_token /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+
+[ 2016-08-01T15:01:33+08:00 ] 182.254.86.148 /weixin/index.php?signature=7e1c33a9e9fa3c7cad893ff13c24d77f613246a5&timestamp=1470034893&nonce=2020191534&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 36 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 54 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+
+[ 2016-08-01T15:04:20+08:00 ] 182.254.86.158 /weixin/index.php?signature=cf912dff7d5a9af6932f0659e10aba011715c060&timestamp=1470035060&nonce=293750468&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 34 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 90 行.
+
+[ 2016-08-01T15:05:45+08:00 ] ERR: [4] syntax error, unexpected '",'value'="' (T_CONSTANT_ENCAPSED_STRING) /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+[ 2016-08-01T15:05:45+08:00 ] 182.254.86.158 /weixin/index.php?signature=8d7ea7f42717ab38867df2b600e29e564ecaddfe&timestamp=1470035145&nonce=807175787&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+
+[ 2016-08-01T15:06:53+08:00 ] ERR: [4] syntax error, unexpected '",'value'="' (T_CONSTANT_ENCAPSED_STRING) /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 73 行.
+[ 2016-08-01T15:06:53+08:00 ] 182.254.86.158 /weixin/index.php?signature=f9293d54f33e0e0d1fd707259c0af7b5e0dc6b0e&timestamp=1470035213&nonce=1264699571&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Common/functions.php 第 39 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Common/functions.php 第 38 行.
+
+[ 2016-08-01T15:08:32+08:00 ] 182.254.86.155 /weixin/index.php?signature=3cc49232989db8b039a020aa6b9ca1ab43b1af37&timestamp=1470035312&nonce=2072849750&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+
+[ 2016-08-01T15:09:29+08:00 ] 182.254.86.153 /weixin/index.php?signature=72a1004499f2556b58484d132af51f6c65d6ffb3&timestamp=1470035369&nonce=2045529909&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 90 行.
+
+[ 2016-08-01T15:12:40+08:00 ] 182.254.86.143 /weixin/index.php?signature=d5bd15fdd1e476a9baab30237a53a3987da96b09&timestamp=1470035560&nonce=2054147643&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 90 行.
+
+[ 2016-08-01T15:13:58+08:00 ] 182.254.86.148 /weixin/index.php?signature=5f60e7b5707fb488994eade1bbea33a05a459b52&timestamp=1470035638&nonce=1649078310&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+
+[ 2016-08-01T15:14:37+08:00 ] 182.254.86.143 /weixin/index.php?signature=55d44915d86dbf9382b2399a50e367fe89e6f8d1&timestamp=1470035677&nonce=454595037&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+
+[ 2016-08-01T15:16:44+08:00 ] 182.254.86.148 /weixin/index.php?signature=82e1114d4d2e92a1301ec633961796925802c371&timestamp=1470035804&nonce=252211883&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 6 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 86 行.
+
+[ 2016-08-01T15:19:02+08:00 ] 182.254.86.158 /weixin/index.php?signature=dbe9fb157c422d3fa1ee4c355cdcd89bc3a7162c&timestamp=1470035927&nonce=2102919406&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 5 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:19:07+08:00 ] 182.254.86.143 /weixin/index.php?signature=dbe9fb157c422d3fa1ee4c355cdcd89bc3a7162c&timestamp=1470035927&nonce=2102919406&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:19:12+08:00 ] 182.254.86.148 /weixin/index.php?signature=dbe9fb157c422d3fa1ee4c355cdcd89bc3a7162c&timestamp=1470035927&nonce=2102919406&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:19:43+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.008581s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008683s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 106 行.
+
+[ 2016-08-01T15:19:48+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000063s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000172s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 106 行.
+
+[ 2016-08-01T15:20:42+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000091s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 106 行.
+
+[ 2016-08-01T15:21:48+08:00 ] ERR: (ThinkException) 非法操作:getWxAccessToken
+[ 2016-08-01T15:21:48+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000119s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 64 行.
+NOTIC: [8] Array to string conversion /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+
+[ 2016-08-01T15:22:18+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000096s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:22:50+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000083s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:29:35+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000065s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:30:14+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000200s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:33:57+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000084s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:34:36+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000095s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000152s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+
+[ 2016-08-01T15:35:43+08:00 ] 182.254.86.153 /weixin/index.php?signature=4e0f97877db1e7d0a5b5b12244904c5a5c18b8d9&timestamp=1470036943&nonce=1335159676&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:35:50+08:00 ] 182.254.86.148 /weixin/index.php?signature=2abb34a06becd5ee56f190c5eaad274f4cc9391c&timestamp=1470036950&nonce=1872321305&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:36:19+08:00 ] 182.254.86.148 /weixin/index.php?signature=017626612a4aacbf33b09b743b89731ff25619b4&timestamp=1470036979&nonce=1617815867&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:37:37+08:00 ] 182.254.86.158 /weixin/index.php?signature=a43ad8425bfc2ee9e7272bf5a9bb7e92a6eea63a&timestamp=1470037057&nonce=300635920&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:38:03+08:00 ] 182.254.86.143 /weixin/index.php?signature=3f2ddc89ba63080be121c29c2ec0c30ebfae7b3e&timestamp=1470037083&nonce=1889747771&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:38:12+08:00 ] 182.254.86.143 /weixin/index.php?signature=06d5ea73b9704d9cd5e83db6484b9c3b51c68914&timestamp=1470037092&nonce=1922199037&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:38:44+08:00 ] 182.254.86.148 /weixin/index.php?signature=09f974e9fffebf6de53e734029d248f1cd7d2478&timestamp=1470037124&nonce=320871176&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 93 行.
+
+[ 2016-08-01T15:40:37+08:00 ] 182.254.86.153 /weixin/index.php?signature=51099cb74e365d88d089a5500fc802904d7f5d0a&timestamp=1470037237&nonce=485358856&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:40:43+08:00 ] 182.254.86.148 /weixin/index.php?signature=06989b62dd461124bf061463426ddf7a68b6f5e6&timestamp=1470037243&nonce=2024468076&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:40:48+08:00 ] 182.254.86.148 /weixin/index.php?signature=826dc00a538e422f21cb17e2f7e84e51cc55f656&timestamp=1470037248&nonce=521872318&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:41:19+08:00 ] 182.254.86.153 /weixin/index.php?signature=f6bd33f557a44e1f2aefb44ac102d2299bf078cc&timestamp=1470037279&nonce=1120296830&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:41:34+08:00 ] 182.254.86.158 /weixin/index.php?signature=e034f2b294549ba3f3f8b46834eebd06ba4418d1&timestamp=1470037294&nonce=1099439058&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T15:41:40+08:00 ] 182.254.86.158 /weixin/index.php?signature=ee72798e71900ec7243e8cbe6fba118c52169cf3&timestamp=1470037300&nonce=393186434&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-08-01T15:42:42+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000095s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T15:43:21+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000154s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000239s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T15:43:30+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000081s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T15:43:41+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000069s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T15:43:45+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000096s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T15:43:46+08:00 ] 112.11.154.149 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+
+[ 2016-08-01T18:24:34+08:00 ] 182.254.86.153 /weixin/index.php?signature=4071fc9f285dca3b68499396d4f77d1a87cb249b&timestamp=1470047074&nonce=767812365&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 67 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+
+[ 2016-08-01T18:24:43+08:00 ] 182.254.86.148 /weixin/index.php?signature=5e58e873f48af52d4ad5712c51f6598ddbe568ca&timestamp=1470047083&nonce=708820314&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 49 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 89 行.
+

@@ -1,0 +1,386 @@
+[ 2016-07-18T15:15:33+08:00 ] 112.11.153.74 /weixin/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 137 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.012676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012736s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000324s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000265s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000177s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001217s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000684s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-07-18T15:17:57+08:00 ] 58.247.206.144 /weixin/index.php?signature=ae0199cdca543f7b17aa87c5e10aa30bfdb77e45&echostr=472290231105600189&timestamp=1468826277&nonce=530805773
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+
+[ 2016-07-18T15:17:59+08:00 ] 101.226.103.63 /weixin/index.php?signature=2f9850344575fedf7461c8d8bc885651770648e7&echostr=585259445794035447&timestamp=1468826279&nonce=974989030
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+
+[ 2016-07-18T15:18:04+08:00 ] 58.247.206.157 /weixin/index.php?signature=734bd27caed9ed26364ab5e185f3ca42028d34a9&echostr=2982652350090241023&timestamp=1468826284&nonce=1284730430
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+
+[ 2016-07-18T15:19:15+08:00 ] 112.11.153.74 /weixin/index.php/Index/http_curl
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001117s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001188s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+
+[ 2016-07-18T15:19:28+08:00 ] 182.254.86.143 /weixin/index.php?signature=2aae2834b988b7eaaef0cc155d3781adfca4d268&timestamp=1468826368&nonce=1483919140&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=fc04c8585a825710cc40568d1ba4ff004eec93ea
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T15:19:50+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000108s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 79 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 82 行.
+
+[ 2016-07-18T15:28:11+08:00 ] ERR: [1] Call to undefined function surl_init() /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 88 行.
+[ 2016-07-18T15:28:26+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxServerIp
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 93 行.
+
+[ 2016-07-18T15:47:48+08:00 ] ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: NO)
+[ 2016-07-18T15:47:48+08:00 ] 182.254.86.143 /weixin/index.php?signature=5556d2e5f51b834d4bcd50ba367ec2dd6d132fb4&timestamp=1468828068&nonce=344308012&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=0ec87d01ebe528e631dc43f3edda322fc12aa8e4
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+
+[ 2016-07-18T15:50:54+08:00 ] ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: NO)
+[ 2016-07-18T15:50:54+08:00 ] 182.254.86.158 /weixin/index.php?signature=c640551e638d07f863973ee2ddeda89ea9e606a0&timestamp=1468828254&nonce=1262300329&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=1dbdd47fdb840a07186bfd7123381974724d026a
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+
+[ 2016-07-18T15:53:53+08:00 ] ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: NO)
+[ 2016-07-18T15:53:53+08:00 ] 182.254.86.158 /weixin/index.php?signature=4bcff95c3975a269e8bcc46d71ce7f7ff7ac06a6&timestamp=1468828433&nonce=525068275&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=baedfbb3bbfbcda3f167fe73a90667ba6fc104b0
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/weixin/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+NOTIC: [8] Undefined index: file /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type /var/www/html/weixin/ThinkPHP/Lib/Core/ThinkException.class.php 第 63 行.
+
+[ 2016-07-18T15:58:03+08:00 ] 182.254.86.143 /weixin/index.php?signature=f9f9403656b4b0b9f571c74622a357860714433e&timestamp=1468828683&nonce=1116260702&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=0285cb47989a4e08a3e8e1b46dcad2d024a0a8dd
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T15:59:09+08:00 ] 182.254.86.148 /weixin/index.php?signature=7abf7c61729452866653be588509064159f16cac&timestamp=1468828749&nonce=197014936&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=317375dfbad52aee1dc14f8baff0c04c802c11cf
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:07:48+08:00 ] 182.254.86.153 /weixin/index.php?signature=66599703952aa571b6ee676e347b59423072ecfb&timestamp=1468829268&nonce=1159015295&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=1a022ca6428fad8975c47efde90880b548fa3b08
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:10:10+08:00 ] 182.254.86.148 /weixin/index.php?signature=35d08452555bd8803220b9424fcdf6dc118024bd&timestamp=1468829410&nonce=1158398413&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=d4d04198198ea2fcff3e168e1f3af40caae29b68
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:10:32+08:00 ] 182.254.86.158 /weixin/index.php?signature=84a45034ea318c729bf49e64673a887b8ae58f3a&timestamp=1468829432&nonce=1112821856&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=e051a07c87d9d178b9a4f380959b6089fb4d6b66
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:10:32+08:00 ] 182.254.86.158 /weixin/index.php?signature=3c62298857760ba54bf5ca1ca6e617970a53922e&timestamp=1468829432&nonce=1890101307&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=9d3d65a4e75d69c830f11552e2eb144a67fc7234
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:11:16+08:00 ] 182.254.86.153 /weixin/index.php?signature=673ca2648d7d5b87c3148c85091ec6115e95f542&timestamp=1468829476&nonce=1735312078&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=ab11fc193477e258c4a0a140668bcb4e967daeea
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:12:24+08:00 ] 182.254.86.158 /weixin/index.php?signature=ff8db6901b8dee4db3970cc9bbf54b8feacc3104&timestamp=1468829544&nonce=2113450956&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=f227dfc769dd426cf191b27645c1e4fe1faf4669
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:13:05+08:00 ] 182.254.86.143 /weixin/index.php?signature=03eb472b34c02353e4f28f9f181e721d86232855&timestamp=1468829585&nonce=844558976&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=74b4b86562983eecac30522879cbadb27d805083
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+NOTIC: [8] Undefined variable: content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 54 行.
+
+[ 2016-07-18T16:13:55+08:00 ] 182.254.86.158 /weixin/index.php?signature=4090c72ca825025f4ba584ed3b6c1571a393d8c6&timestamp=1468829635&nonce=512389262&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=8f65d17619087b5ae5c17c57edcdbbc826dcb16a
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+NOTIC: [8] Undefined variable: content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 54 行.
+
+[ 2016-07-18T16:15:59+08:00 ] 182.254.86.153 /weixin/index.php?signature=ee9747ee234f66bb749585712fa371f7bedd93e6&timestamp=1468829759&nonce=2090551742&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=bd8fc53e65c521a6b0dbb2802638c9b17ac14afb
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined variable: Content /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 43 行.
+
+[ 2016-07-18T16:17:23+08:00 ] 182.254.86.143 /weixin/index.php?signature=50fe04a3d416fcededa4f4a5e3d0682a8ea04487&timestamp=1468829843&nonce=1097627538&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=e9626715de9faea25cb7a8d3cc76d5c68381f96d
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:34:41+08:00 ] 182.254.86.148 /weixin/index.php?signature=39d27abc21948fa117916cfce7b178b8e7704bd9&timestamp=1468830881&nonce=999670782&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=3cf2f716783e470242f2ad89a83231dd8a6b8f9a
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:36:51+08:00 ] 182.254.86.153 /weixin/index.php?signature=9097aea96596c005d59538822873bdcfccc30191&timestamp=1468831011&nonce=1139907648&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=d2815efe63bfe99d4cdd94acc99a6dfdb42069ed
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:36:54+08:00 ] 182.254.86.153 /weixin/index.php?signature=20cc29ff0d4c63375929a922f5d8afd2135d6cdd&timestamp=1468831014&nonce=2040559740&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=8078e8ef1205ecdfe54781a98e00ca08693971d9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:37:18+08:00 ] 182.254.86.143 /weixin/index.php?signature=71427e09e35aa4419364b6e4564494982125f5a1&timestamp=1468831038&nonce=1901986063&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=ca2bc9b42ed6984e32cadf6ca9a1994eec8975e0
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:37:21+08:00 ] 182.254.86.143 /weixin/index.php?signature=94907b5d34cf69d55415cb00ca24e633339d5b45&timestamp=1468831041&nonce=1469192693&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=578a776565d53a4a1d8205516f079b6b291ac74d
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:37:58+08:00 ] 182.254.86.158 /weixin/index.php?signature=2e8fb4893de88605d57763d36680dcd343ebb26c&timestamp=1468831078&nonce=513198250&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=b76885e59d0f91197c68b370aac86db4b4c72f90
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:38:58+08:00 ] 182.254.86.158 /weixin/index.php?signature=b31a97aaeb43bd0d41319b23e4aac0a0cca02377&timestamp=1468831138&nonce=976135380&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=24adb53666b073a27bc2066a972e266e58cb2cc4
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:39:01+08:00 ] 182.254.86.148 /weixin/index.php?signature=07103486623dba7a82cf876e9e3c39458e9d063c&timestamp=1468831141&nonce=633055426&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=27049e7a26f610799c67fa0d1185a6f18c563dbe
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:45:09+08:00 ] 182.254.86.143 /weixin/index.php?signature=c6af67adb0dc44a24cd63ca1040da99644a8ccb5&timestamp=1468831509&nonce=2050680350&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=f32f4388f213fb8c3718f58381bf0480115adc9b
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:45:13+08:00 ] 182.254.86.153 /weixin/index.php?signature=361ee7612d705cc3bbc0941bab53a4cb61852188&timestamp=1468831513&nonce=909258987&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=135b9f409a4294cd35254b3630ea347b216d4966
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:45:21+08:00 ] 182.254.86.143 /weixin/index.php?signature=d692c1020384cd4eeaa8fc70ec9f16e386955677&timestamp=1468831521&nonce=208456990&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=dcb83481c9523bd2800f5939accc590bb33740fb
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:45:25+08:00 ] 182.254.86.148 /weixin/index.php?signature=358cb19e4e663408dc8d891daafaf561be0b6dca&timestamp=1468831525&nonce=1302483320&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=fbd75768f3d975ed17ae7b2912ad4e3a946f3e69
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T16:45:27+08:00 ] 182.254.86.143 /weixin/index.php?signature=be284dc049c53aa7c4bf786692e105366811dd79&timestamp=1468831527&nonce=378498019&openid=owMijw8cyufQn5aj4ljVHtlRyG1g&encrypt_type=aes&msg_signature=b6d33d6dfb685073506c2431959f40d7017ea1a6
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T20:43:05+08:00 ] 182.254.86.148 /weixin/index.php?signature=d94eb7546cde878eb45f0877a2cbb05d6834b775&timestamp=1468845785&nonce=2125225091&openid=owMijw4ToJwEVSUegKR6JhV9db-s&encrypt_type=aes&msg_signature=5556283aaf0d65a1c433f7df3635799a4e5a5552
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-18T20:51:47+08:00 ] 182.254.86.148 /weixin/index.php?signature=7da3bbaa71fb8da720666a46426167a3e91d37b8&timestamp=1468846307&nonce=1262269141&openid=owMijw4ToJwEVSUegKR6JhV9db-s&encrypt_type=aes&msg_signature=f0d1daa9fc5050c51abbec7fbbec58ae6cb0cea4
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+

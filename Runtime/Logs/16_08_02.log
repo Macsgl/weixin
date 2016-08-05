@@ -1,0 +1,35 @@
+[ 2016-08-02T03:06:01+08:00 ] 101.226.64.174 /weixin/index.php?signature%3D2abb34a06becd5ee56f190c5eaad274f4cc9391c%26timestamp%3D1470036950%26nonce%3D1872321305%26openid%3DoUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: nonce /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 56 行.
+
+[ 2016-08-02T03:09:01+08:00 ] 180.153.214.189 /weixin/index.php?signature%3D2abb34a06becd5ee56f190c5eaad274f4cc9391c%26timestamp%3D1470036950%26nonce%3D1872321305%26openid%3DoUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: nonce /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 56 行.
+
+[ 2016-08-02T08:14:31+08:00 ] 180.153.206.20 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 100 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 118 行.
+

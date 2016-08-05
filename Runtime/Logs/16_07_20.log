@@ -1,0 +1,156 @@
+[ 2016-07-20T13:56:16+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.009496s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009582s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 78 行.
+
+[ 2016-07-20T13:56:39+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 78 行.
+
+[ 2016-07-20T14:08:01+08:00 ] 182.254.86.153 /weixin/index.php?signature=9e7fc0c45707564629c631080b05435dacd5bc9d&timestamp=1468994881&nonce=1430712637&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-20T14:08:17+08:00 ] 182.254.86.153 /weixin/index.php?signature=d5b99d52c167c098fe1d24cb909a14115894a66c&timestamp=1468994896&nonce=1537489342&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-20T14:09:25+08:00 ] 182.254.86.153 /weixin/index.php?signature=1e4385392a42ba04e1648104f4db7611e4c68c3c&timestamp=1468994965&nonce=21387811&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-20T14:09:27+08:00 ] 182.254.86.148 /weixin/index.php?signature=b4c3f06e276700447bcdd394ede589cc756958e4&timestamp=1468994967&nonce=1364845221&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-20T14:10:30+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 50 行.
+[ 2016-07-20T14:10:41+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 50 行.
+[ 2016-07-20T14:11:04+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 50 行.
+[ 2016-07-20T14:15:27+08:00 ] ERR: [4] syntax error, unexpected ';' /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 108 行.
+[ 2016-07-20T14:16:29+08:00 ] ERR: [4] syntax error, unexpected ';' /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 108 行.
+[ 2016-07-20T14:16:44+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000093s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 84 行.
+
+[ 2016-07-20T14:17:31+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000086s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 120 行.
+
+[ 2016-07-20T14:17:34+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000070s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 120 行.
+
+[ 2016-07-20T14:17:55+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000092s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 121 行.
+
+[ 2016-07-20T14:22:21+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000112s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 121 行.
+
+[ 2016-07-20T14:22:22+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000093s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 121 行.
+
+[ 2016-07-20T14:22:28+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000106s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 116 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 121 行.
+
+[ 2016-07-20T14:25:07+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 50 行.
+[ 2016-07-20T14:25:43+08:00 ] 182.254.86.158 /weixin/index.php?signature=dbd34a10c72bfbf4372d00e778b84b9dd453952f&timestamp=1468995943&nonce=2120713097&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-20T14:26:39+08:00 ] 112.11.153.74 /weixin/index.php/Index/getUserName
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 112 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 117 行.
+
+[ 2016-07-20T14:51:43+08:00 ] 112.11.153.74 /weixin/index.php/Index/getWxAccessToken
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000064s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /var/www/html/weixin/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 80 行.
+

@@ -1,0 +1,414 @@
+[ 2016-07-31T15:41:05+08:00 ] 182.254.86.148 /weixin/index.php?signature=dee91eeb5b52021ef7eb4c0c4964425410b108f9&timestamp=1469950864&nonce=822473836&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.006078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006179s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:41:07+08:00 ] 182.254.86.148 /weixin/index.php?signature=30cbd4933dec1d5899c1280dd654f2a28fb57b69&timestamp=1469950867&nonce=379897927&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:44:05+08:00 ] 180.153.214.198 /weixin/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Undefined index: nonce /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 46 行.
+
+[ 2016-07-31T15:54:02+08:00 ] 182.254.86.148 /weixin/index.php?signature=6e8abcd7b70406d033d625e507339277153c135c&timestamp=1469951642&nonce=201801227&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:55:55+08:00 ] 182.254.86.143 /weixin/index.php?signature=bf13a48ce8ba724828455da48dbeac34de2941e8&timestamp=1469951755&nonce=350670337&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:56:04+08:00 ] 182.254.86.146 /weixin/index.php?signature=2577f3a2d2c301c825309312271f33a412d8076b&timestamp=1469951764&nonce=1466625151&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:57:10+08:00 ] 182.254.86.148 /weixin/index.php?signature=8a799ec5609da3d706b1dec27eb05d4bef83f94f&timestamp=1469951830&nonce=1814731258&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T15:57:24+08:00 ] 182.254.86.153 /weixin/index.php?signature=78babaf07e5c8fe66582a4cdaeb08bdd92a7a797&timestamp=1469951844&nonce=645395400&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:01:21+08:00 ] 182.254.86.143 /weixin/index.php?signature=89ca9bf920b21b09fde11ec84583bc77493e1d18&timestamp=1469952081&nonce=1692255244&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:05:50+08:00 ] 182.254.86.148 /weixin/index.php?signature=d4ec2986c3d8d66d497cc8932174f80df18a2999&timestamp=1469952350&nonce=2063259345&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:05:55+08:00 ] 182.254.86.158 /weixin/index.php?signature=0e310edce53c5a3eb0e16d29bff54c34b19e6a0a&timestamp=1469952355&nonce=524566739&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:06:33+08:00 ] 182.254.86.139 /weixin/index.php?signature=d291bcfc079716c42a9e88a7e37ce5e380c7eb43&timestamp=1469952393&nonce=941528645&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:08:45+08:00 ] 182.254.86.153 /weixin/index.php?signature=f83e469b596f20b8cbc97b617004aaa638185c86&timestamp=1469952525&nonce=1805846228&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:09:32+08:00 ] 182.254.86.153 /weixin/index.php?signature=2face4ae160a8db5fb346e6090b2a3d2230d39a6&timestamp=1469952572&nonce=1027960878&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:09:36+08:00 ] 182.254.86.148 /weixin/index.php?signature=21c9041d23d5ab84173877d916d180bc56237563&timestamp=1469952576&nonce=902244387&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:24:00+08:00 ] 182.254.86.143 /weixin/index.php?signature=dea7367f507382d796b9aa0b43860385d4a294b9&timestamp=1469953440&nonce=1507084837&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:24:19+08:00 ] 182.254.86.153 /weixin/index.php?signature=77da52a3f718bafa3f2b86cb69a4ccc65a38f469&timestamp=1469953459&nonce=1506240537&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:32:30+08:00 ] 182.254.86.153 /weixin/index.php?signature=f58dc51ead006ea84c7da379da9a66133ab0a67e&timestamp=1469953949&nonce=1147983923&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:34:10+08:00 ] 182.254.86.153 /weixin/index.php?signature=ce326d3297957c5ff00ab18d27c89e93c6cfb9dd&timestamp=1469954050&nonce=749092153&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+
+[ 2016-07-31T16:34:19+08:00 ] 182.254.86.148 /weixin/index.php?signature=45cebb7278e80722171ab1eeac94bbe2a0404a8e&timestamp=1469954059&nonce=199443026&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+
+[ 2016-07-31T16:34:23+08:00 ] 182.254.86.153 /weixin/index.php?signature=779dc64abe83aede5692761a1692ec0bfc6e78dd&timestamp=1469954063&nonce=794609506&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+
+[ 2016-07-31T16:34:46+08:00 ] 182.254.86.158 /weixin/index.php?signature=9976f588a3d9578db2af80f7da975e824c0e7526&timestamp=1469954086&nonce=752057335&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+
+[ 2016-07-31T16:35:41+08:00 ] 182.254.86.158 /weixin/index.php?signature=64f7e8ae0b9a701c9ae53a808b765869d810e3b5&timestamp=1469954141&nonce=1796193441&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:37:34+08:00 ] 182.254.86.143 /weixin/index.php?signature=f23877eb7ab6045e122cd66985b95a874913fc7a&timestamp=1469954254&nonce=783507239&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:40:10+08:00 ] 182.254.86.158 /weixin/index.php?signature=dc702e251fa54fc0cc3fe2caf6c406bc74923cdf&timestamp=1469954409&nonce=1649517941&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:42:18+08:00 ] 182.254.86.143 /weixin/index.php?signature=c487edf7fe394c5d255d8077cd3c126d2c1bc8dd&timestamp=1469954538&nonce=293447477&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:43:47+08:00 ] 182.254.86.158 /weixin/index.php?signature=d4f9984f8a44333ca1cfa5e41dfcf753e2b028cd&timestamp=1469954627&nonce=1480269511&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:48:45+08:00 ] 182.254.86.143 /weixin/index.php?signature=dd38ea3ae91e7de01416220ddc750b2a2b7d4476&timestamp=1469954925&nonce=1409776379&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:49:25+08:00 ] 182.254.86.158 /weixin/index.php?signature=d3119f6ae786ae4fb2a92ac7973b9fef88efc64f&timestamp=1469954965&nonce=734262474&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined index: nickname /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 60 行.
+
+[ 2016-07-31T16:51:07+08:00 ] 182.254.86.143 /weixin/index.php?signature=720f5aa8aa4a0442c31ec432787914a4a9c2f826&timestamp=1469955067&nonce=182119116&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:51:50+08:00 ] 182.254.86.143 /weixin/index.php?signature=45712cb883d13f68ac5ea83ed41f7d25bfe3ced5&timestamp=1469955110&nonce=1543037860&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:52:12+08:00 ] 182.254.86.143 /weixin/index.php?signature=2a86a189ae42c73929f5b4b7da90a49625d43c62&timestamp=1469955132&nonce=1927486357&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:55:06+08:00 ] 182.254.86.139 /weixin/index.php?signature=c8ee72c9eb4b731395d5be6c2d7e93ba2c5ea4d2&timestamp=1469955305&nonce=637668395&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 4 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:55:14+08:00 ] 182.254.86.153 /weixin/index.php?signature=5e1bcb8f84afe17123e3209026595eca9079ef4d&timestamp=1469955314&nonce=644744266&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T16:56:00+08:00 ] 182.254.86.143 /weixin/index.php?signature=a882e0a1ad534f1e4bf9915391b7f2406c9c80f1&timestamp=1469955360&nonce=1692894566&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:56:22+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 42 行.
+[ 2016-07-31T16:58:18+08:00 ] 182.254.86.143 /weixin/index.php?signature=0ce30548e873ef5d8b4ec8e141147c63c27f4c01&timestamp=1469955498&nonce=799442832&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:58:32+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 42 行.
+[ 2016-07-31T16:59:44+08:00 ] 182.254.86.153 /weixin/index.php?signature=8952c425c1629b6445a7c59a0b436c1593250c63&timestamp=1469955584&nonce=520419649&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T16:59:52+08:00 ] 182.254.86.148 /weixin/index.php?signature=cb0af07d25e773d25a802b2ffeca9cab11468ca6&timestamp=1469955592&nonce=1193280135&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:00:58+08:00 ] 182.254.86.143 /weixin/index.php?signature=49c461c5f5b1455952c4dc5c88938cc80c57923c&timestamp=1469955658&nonce=1288362651&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:01:13+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 42 行.
+[ 2016-07-31T17:05:58+08:00 ] 182.254.86.143 /weixin/index.php?signature=660ca5d578e07b51bb1dc8d052480ad31ff3886c&timestamp=1469955958&nonce=1049778515&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:06:12+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 42 行.
+[ 2016-07-31T17:07:19+08:00 ] 182.254.86.153 /weixin/index.php?signature=d62f89844b8683df2234d5544d57505a44dc4bfa&timestamp=1469956039&nonce=1044003718&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:07:30+08:00 ] 182.254.86.158 /weixin/index.php?signature=001a2cb63eadf49f657326f6d993506e46b2c545&timestamp=1469956049&nonce=463968478&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:08:38+08:00 ] 182.254.86.158 /weixin/index.php?signature=708cb2e91ab3f168313709d8b21f22fb3e7a1a3b&timestamp=1469956118&nonce=2007618109&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:08:55+08:00 ] 182.254.86.158 /weixin/index.php?signature=d2e31c4152116142b9791bacf51fc60c9b55115a&timestamp=1469956135&nonce=1520042649&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:11:09+08:00 ] 182.254.86.158 /weixin/index.php?signature=766eee27457c4bc233ee161de894753e6df2e8d7&timestamp=1469956269&nonce=161613421&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:11:15+08:00 ] ERR: [1] Call to a member function getWxAccessToken() on a non-object /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 42 行.
+[ 2016-07-31T17:11:34+08:00 ] 182.254.86.153 /weixin/index.php?signature=74a990e5ec48dd0b9c21eb8aa3f569281a892c6e&timestamp=1469956294&nonce=905356735&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:11:45+08:00 ] 182.254.86.148 /weixin/index.php?signature=e45d09a541f93ba6943343604552a321dc0d2766&timestamp=1469956305&nonce=1378136920&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:12:32+08:00 ] 182.254.86.148 /weixin/index.php?signature=76ff757de1460191385e9f09e9a0358b2334e7ed&timestamp=1469956352&nonce=1277790165&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:12:48+08:00 ] 182.254.86.143 /weixin/index.php?signature=216b93c6ab2e57d30f8f1594d3169ac16647f253&timestamp=1469956368&nonce=1829616767&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 3 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:14:11+08:00 ] 182.254.86.153 /weixin/index.php?signature=5cb948467d9952abafea331212bf81123e04e2d2&timestamp=1469956451&nonce=244568897&openid=oUzJIw78CPpAnKYTk_GEr5Xf-QVQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:14:55+08:00 ] 182.254.86.158 /weixin/index.php?signature=a45f541470e1fa80d4ca76b97baea2861085e374&timestamp=1469956495&nonce=536613671&openid=oUzJIw78CPpAnKYTk_GEr5Xf-QVQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:58:54+08:00 ] 182.254.86.143 /weixin/index.php?signature=19ab4b4bece4715b4473aff2f7ba8b8b8ffc97e0&timestamp=1469959134&nonce=1300963229&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
+[ 2016-07-31T17:59:01+08:00 ] 182.254.86.153 /weixin/index.php?signature=e378b34d3976fd00806664824a6344e77989065e&timestamp=1469959140&nonce=2054209834&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:59:04+08:00 ] 182.254.86.143 /weixin/index.php?signature=9143abe573be6bb77a6f9b2e8f46b39c212f66ec&timestamp=1469959143&nonce=616306406&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T17:59:09+08:00 ] 182.254.86.153 /weixin/index.php?signature=16e44e6046131220f8332175005bdf569f9c9989&timestamp=1469959149&nonce=1666795893&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T19:27:01+08:00 ] 182.254.86.153 /weixin/index.php?signature=3fe916ffda2dc77c60f87449aac3e60208f509b3&timestamp=1469964421&nonce=162598659&openid=oUzJIw3OoB1ijZ6yRw2YSyImXS3w
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T20:29:54+08:00 ] 182.254.86.148 /weixin/index.php?signature=0f3f93d003bf7302dc1a0ad06b86584d61ac5f6e&timestamp=1469968193&nonce=1456078598&openid=oUzJIw-LYdZ5aHC5ilTFIOh_8nKs
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 42 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/weixin/Lib/Model/IndexModel.class.php 第 56 行.
+
+[ 2016-07-31T20:30:30+08:00 ] 182.254.86.153 /weixin/index.php?signature=5977fadbf1e4d544346a31fc6de8336774654317&timestamp=1469968230&nonce=1958767106&openid=oUzJIw-LYdZ5aHC5ilTFIOh_8nKs
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/weixin/Lib/Action/IndexAction.class.php 第 9 行.
+
