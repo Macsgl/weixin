@@ -76,7 +76,7 @@ class IndexAction extends Action {
         				$content = '你的昵称是：'.$userName;
         				break;
         			default:
-        				$content = '没有查询结果';
+        				$content = '没有查询结果!';
         				break;
         		}
         	//}
@@ -178,4 +178,47 @@ class IndexAction extends Action {
         var_dump($arr);
         echo $arr['nickname'];
     }*/
+    function http_curl($url,$type='get',$res='json',$arr='')
+    {
+        $ch = curl_init(); //初始化curl
+        //设置curl的参数
+        curl_setopt($ch,CURLOPT_URL,$url);
+        curl_setopt($ch,CURLOPT_RETURNTRANSFER,$arr);
+        if($type == 'post'){
+            curl_setopt($ch,CURLOPT_POST,1);
+            curl_setopt($ch,CURLOPT_POSTFIELDS,$arr);
+        }
+        $output = curl_exec($ch);  //采集
+        curl_close($ch);  //关闭
+        if($res == 'json'){
+            if(curl_errno($ch)){
+                return curl_error($ch);
+            }else{
+                return json_decode($output,true);
+            }
+        }
+    }
+    function definedItem(){
+        header('content-type:text/html;charset=utf-8');
+        $IndexModel = new IndexModel();
+        $AccessToken = $IndexModel->getWxAccessToken();
+        $url = "https://api.weixin.qq.com/cgi-bin/menu/create?access_token=".$AccessToken;
+        $postArr = array(
+                    'button' => array(
+                        array(
+                            'type' => 'click',
+                            'name' => urlencode('获取OpenID'),
+                            'key' => 'ID',
+                        ),
+                        array(
+                            'type' => 'view',
+                            'name' => urlencode('搜索页面'),
+                            'url' => 'http://www.macsgl.cn/weixin/WEB'
+                        ),                         
+                        )
+
+            );
+        $postJson = urldecode(json_encode($postArr));
+        $res = $this->http_curl($url,'post','json',$postJson);
+    }
 }
